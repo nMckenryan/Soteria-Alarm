@@ -1,0 +1,15 @@
+SOTERIA PERSONAL ALARM
+
+Soteria is an Alarm system that sends a text message with the device's co-ordinates to cellphone.
+This co-ordinate will be sent to the other device as a Google Maps link.
+
+INSTRUCTIONS: 
+
+1. Select the 'Configure Alarm' menu to set up the alarm. Make sure your location service is online.
+
+2. At the next screen, enter your name, as well as the name of your Emergency Contact as well as their cellphone number.
+
+3. The Alarm is now set, Go back to the first screen by pressing 'Go Back'
+
+4. whenever the 'TRIGGER ALARM' button is pressed, the following message will be sent to your chosen emergency contact's device:
+	"Attenton *CONTACT NAME*! and *YOUR NAME* in trouble. Last Known Location: *insert co-ordinates.""

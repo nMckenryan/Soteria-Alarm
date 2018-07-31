@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Soteria Alarm</string>
+    <string name="enterUsername">Enter your name here</string>
+    <string name="enterContName">Enter your contact\'s name here</string>
+    <string name="enterContNum">Enter your contact\'s phone number here</string>
+    <string name="nonConfigWarning">WARNING: Alarm not configured. Please go into Preferences Menu.</string>
+    <string name="confirm">Confirm</string>
+    <string name="configure_alarm">Configure Alarm</string>
+    <string name="test">test</string>
+    <string name="trigger_alarm">TRIGGER ALARM</string>
+    <string name="go_back">Go Back</string>
+    <string name="add_your_contact_s_details_here">Add your Contact\'s details here</string>
+</resources>
